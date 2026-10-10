@@ -24,7 +24,7 @@ We believe the MetaHOPE evaluation framework for metaphor translation annotation
 - human annotations with error severity on corpus used : English to Chinese; Chinese to English. 
 - Bilingual corpus created.
   
-
+# We are sharing the annotation of 200 segments soon. stay tuned! 
 
 # Reference / please cite the following work if you use the materials shared from this project
 
